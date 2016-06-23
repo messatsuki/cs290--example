@@ -1,0 +1,16 @@
+.column1 {
+  font-style: italic;
+  font-weight: normal;
+
+}
+
+.outer-content {
+   height: 20px;
+   width: 75%;
+   background-color: pink;
+}
+
+.inner-content {
+   width: 75%;
+   background-color: blue;
+}
